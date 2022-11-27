@@ -14,8 +14,7 @@ The bot replies to the most highly upvoted comment in a thread that it hasn't al
 
 I also created a `bot_vote.py` file that loops over submissions in the class subreddit and downvotes any submission that mentions Trump and upvotes any comment that mentions Biden. There is a picture of an example below. (2 points)
 
-
-<img width="1069" alt="Screen Shot 2022-11-27 at 12 05 09 PM" src="https://user-images.githubusercontent.com/112538914/204158062-c292e98e-7bbc-4f71-a869-d9165397e271.png">
+<img width="1069" alt="Screen Shot 2022-11-27 at 12 05 09 PM" src="https://user-images.githubusercontent.com/112538914/204159678-2b5647bc-11dd-4c66-95be-4034b3ca6f9e.png">
 
 
 The TextBlob sentiment analysis library reads comments with Trump as a negative sentiment and downvotes the comment. The TextBlob sentiment analysis library reads comments with Biden as positive and upvotes the comment. (an additional 2 points)
@@ -31,4 +30,16 @@ Markovify-- 5 points
 
 There should be around 13 points of extra credit that I completed for this project.
 
+The output of the `bot_counter.py` file 
+```
+len(comments)= 1000
+len(top_level_comments)= 46
+len(replies)= 954
+len(valid_top_level_comments)= 120
+len(not_self_replies)= 874
+len(valid_replies)= 642
+========================================
+valid_comments= 762
+========================================
+```
 
