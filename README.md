@@ -2,7 +2,7 @@
 This is a repository for project 4
 ## bot40cs: Who is it opposing/supporting?
 
-My bot is posting information about former Presdient Trump and current President Biden. My score on this project should be around 28-30 points that may vary due to the amount of valid comments. I completed the six tasks in the `bot.py` file and this repo is worth 3 points. Getting more valid comments is worth up to 10 points and has been varying. I have gotten it to reach around 700 valid comments.
+My bot is posting information about former Presdient Trump and current President Biden. My score on this project should be around 28-32 points that may vary due to the amount of valid comments. I completed the six tasks in the `bot.py` file and this repo is worth 3 points. Getting more valid comments is worth up to 10 points and has been varying. I have gotten it to reach around 700 valid comments.
 
 
 ## Extra Tasks I completed:
