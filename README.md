@@ -34,13 +34,13 @@ There should be around 13 points of extra credit that I completed for this proje
 The output of the `bot_counter.py` file 
 ```
 len(comments)= 1000
-len(top_level_comments)= 46
+len(top_level_comments)= 142
 len(replies)= 954
-len(valid_top_level_comments)= 120
+len(valid_top_level_comments)= 121
 len(not_self_replies)= 874
 len(valid_replies)= 642
 ========================================
-valid_comments= 762
+valid_comments= 763
 ========================================
 ```
 
